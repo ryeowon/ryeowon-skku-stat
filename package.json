@@ -1,0 +1,28 @@
+{
+    "name": "ryeowon-skku-stat",
+    "version": "0.1.0",
+    "description": "",
+    "main": "main.js",
+    "scripts": {
+        "test": "jest"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/ryeowon/ryeowon-skku-stat.git"
+    },
+    "bin": {
+        "stat": "./main.js"
+    },
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/ryeowon/ryeowon-skku-stat/issues"
+    },
+    "homepage": "https://github.com/ryeowon/ryeowon-skku-stat#readme",
+    "devDependencies": {
+        "jest": "^27.2.5"
+    },
+    "dependencies": {
+        "ryeowon-skku-stat": "^0.1.0"
+    }
+}
